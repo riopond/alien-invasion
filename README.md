@@ -15,3 +15,6 @@ The player has three chances (lives) to either be hit or let an
 alien escape.
 If all three lives are lost, the game will end.
 When the game ends, the number of rounds cleared will be displayed.
+
+Base code is referenced from "Python Crash Course, 3rd Edition: A
+Hands-On, Project-Based Introduction to Programming" by Eric Matthes.
