@@ -6,7 +6,7 @@ class Settings:
         # Screen settings
         self.screen_width = 1200
         self.screen_height = 800
-        self.bg_color = (25, 25, 112) # Colours in PyGame are RGB
+        self.bg_colour = (25, 25, 112) # Colours in PyGame are RGB
 
         # Ship settings
         self.ship_speed = 1.5
