@@ -5,11 +5,11 @@ class Settings:
         """Initialise the game's settings."""
         # Screen settings
         self.screen_width = 1200
-        self.screen_height = 800
+        self.screen_height = 850
         self.bg_colour = (25, 25, 112) # Colours in PyGame are RGB
 
         # Ship settings
-        self.ship_speed = 1.5
+        self.ship_speed = 2.5
 
         # Bullet settings
         self.bullet_speed = 2.0
