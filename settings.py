@@ -4,8 +4,8 @@ class Settings:
     def __init__(self):
         """Initialise the game's settings."""
         # Screen settings
-        self.screen_width = 1300
-        self.screen_height = 850
+        self.screen_width = 1100
+        self.screen_height = 900
         self.bg_colour = (25, 25, 112) # Colours in PyGame are RGB
 
         # Ship settings
